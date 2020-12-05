@@ -1,0 +1,40 @@
+<section class="heading-extra">
+    <div class="container">
+      <div class="row">
+        <div class="extra-div col-lg-4 col-md-4 col-12">
+          <p>Easy way to build websites</p>
+          <h1>Perfect powerful theme for creatives designer people.</h1>
+          <p class="with-85 md-wirth-100">
+            Pofo provides a large collection of home and inner pages, carefully crafted elements, and easily
+            customizable templates.
+          </p>
+          <button type="button" class="btn btn-danger btn-lg">DOWNLOAD NOW</button>
+        </div>
+        <div class="extra-div col-lg-4 col-md-4 col-12">
+          <a href=""><img src="/img/homepage-option15-image-1.png" alt=""></a>
+          <p>Easy way to build websites</p>
+          <h3>Perfect powerful theme for creatives designer people.</h3>
+          <p class="with-85 md-wirth-100">
+            Pofo provides a large collection of home and inner pages, carefully crafted elements, and easily
+            customizable templates.
+          </p>
+
+        </div>
+        <div class="extra-div col-lg-4 col-md-4 col-12">		
+          <a href="#"><img src="/img/homepage-option15-image-2.png" alt=""></a>
+          <p> way to build websites</p>
+          <h3>Perfect powerful theme for creatives designer people.</h3>
+          <p class="with-85 md-wirth-100">
+            Pofo provides a large collection of home and inner pages, carefully crafted elements, and easily
+            customizable templates.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
